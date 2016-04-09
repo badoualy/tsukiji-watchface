@@ -6,6 +6,6 @@ See also https://play.google.com/store/apps/details?id=com.badoualy.tsukiji
 <img src="https://raw.githubusercontent.com/badoualy/tsukiji-watchface/master/ART/watch.png" width="300">
 
 ```
-Frame by Daniele Bonaldo, danielebonaldo.com
+Frame from the picture above by Daniele Bonaldo, danielebonaldo.com
 creativecommons.org/licenses/by/3.0/
 ```
