@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="time_size">36sp</dimen>
+    <dimen name="kanji_size">36sp</dimen>
+    <dimen name="translation_size">14sp</dimen>
+</resources>
